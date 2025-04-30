@@ -1,0 +1,21 @@
+[project]
+name = "ctf-writeups"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.0"
+dependencies = [
+    "gmpy2>=2.2.1",
+    "ptrlib",
+    "pwntools>=4.14.1",
+    "pycryptodome>=3.22.0",
+    "sherlock-project>=0.15.0",
+]
+
+[tool.uv.sources]
+ptrlib = { git = "https://github.com/ptr-yudai/ptrlib" }
+
+[dependency-groups]
+dev = [
+    "ruff>=0.11.7",
+]
