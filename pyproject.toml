@@ -19,3 +19,9 @@ ptrlib = { git = "https://github.com/ptr-yudai/ptrlib" }
 dev = [
     "ruff>=0.11.7",
 ]
+
+[tool.ruff]
+ignore = [
+    "F403",
+    "F405"
+]
