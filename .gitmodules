@@ -1,7 +1,6 @@
-[submodule "contest/2025/cpctf25"]
-	path = contest/2025/cpctf25
-	url = git@github.com:kq5y/cpctf25.git
-
 [submodule "dreamhack"]
 	path = dreamhack
 	url = git@github.com:kq5y/dreamhack-writeups.git
+[submodule "contest/2025/CPCTF2025"]
+	path = contest/2025/CPCTF2025
+	url = git@github.com:kq5y/cpctf25.git
