@@ -1,0 +1,4 @@
+Jenkinsで実行してみるとfilterに引っかかる
+Giteaでdebug=Falseにしてもう一度やるとフラグゲット
+
+`punk_{U7F4GP06AEKRFSJS}`
