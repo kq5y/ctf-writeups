@@ -1,0 +1,3 @@
+適当に入力すると質問が投げられるので、chatgptに投げてその返答をコピペすることでフラグ獲得
+
+`BtSCTF{th1s_1s_a_typ1c4l_s4n1ty_ch3ck_r1ght?}`
