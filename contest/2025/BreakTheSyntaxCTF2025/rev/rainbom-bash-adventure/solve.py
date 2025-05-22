@@ -2,7 +2,7 @@ import re
 import hashlib
 import networkx as nx
 
-with open("scriptc.rpy","r") as f:
+with open("script.rpy","r") as f:
     s=f.read()
 
 SS=s.split("label cloud")[1:]
